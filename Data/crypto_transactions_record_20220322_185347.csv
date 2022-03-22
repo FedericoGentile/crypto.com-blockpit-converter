@@ -1,0 +1,41 @@
+Timestamp (UTC),Transaction Description,Currency,Amount,To Currency,To Amount,Native Currency,Native Amount,Native Amount (in USD),Transaction Kind
+21/03/2022 18:28,Card Cashback,CRO,1.928988,,,EUR,0.72,0.795914201,referral_card_cashback
+20/03/2022 10:58,Card Cashback,CRO,0.52563622,,,EUR,0.2,0.221087278,referral_card_cashback
+27/01/2022 18:46,Card Cashback,CRO,3.24008079,,,EUR,1.15,1.271251849,referral_card_cashback
+24/01/2022 18:11,Card Cashback,CRO,1.48669553,,,EUR,0.48,0.530609467,referral_card_cashback
+22/01/2022 11:38,Buy CRO,CRO,330,,,EUR,99.73,110.2451712,crypto_purchase
+20/01/2022 17:36,Card Cashback,CRO,1.52094282,,,EUR,0.64,0.70747929,referral_card_cashback
+17/01/2022 14:26,Card Cashback,CRO,0.15303115,,,EUR,0.06,0.066326183,referral_card_cashback
+27/11/2021 11:30,Card Cashback,CRO,1.64125031,,,EUR,1.12,1.238088757,referral_card_cashback
+26/11/2021 21:40,Card Cashback,CRO,3.75029408,,,EUR,2.38,2.630938608,referral_card_cashback
+26/11/2021 21:11,Card Cashback,CRO,6.68242422,,,EUR,4.22,4.664941566,referral_card_cashback
+26/11/2021 17:25,Transfer: Exchange -> App wallet,CRO,1,,,EUR,0.6,0.663261834,exchange_to_crypto_transfer
+26/11/2021 17:04,Transfer: App wallet -> Exchange,CRO,-1,,,EUR,0.6,0.663261834,crypto_to_exchange_transfer
+26/11/2021 16:45,Card Cashback,CRO,4.78309884,,,EUR,2.98,3.294200442,referral_card_cashback
+25/11/2021 18:07,Card Cashback,CRO,0.15517874,,,EUR,0.11,0.121598003,referral_card_cashback
+22/08/2021 19:28,Card Cashback,CRO,3.80896651,,,EUR,0.51,0.563772559,referral_card_cashback
+18/08/2021 14:49,Card Cashback,CRO,0.70374159,,,EUR,0.09,0.099489275,referral_card_cashback
+16/08/2021 12:30,Card Cashback,CRO,21.06013011,,,EUR,2.79,3.084167528,referral_card_cashback
+14/08/2021 21:58,Card Cashback,CRO,7.88088498,,,EUR,1,1.10543639,referral_card_cashback
+14/08/2021 20:33,Supercharger Withdrawal (via app),CRO,807.3,,,EUR,99.27,109.7366704,supercharger_withdrawal
+13/08/2021 21:12,Card Cashback,CRO,1.18380485,,,EUR,0.15,0.165815459,referral_card_cashback
+13/08/2021 18:38,Card Cashback,CRO,3.42847832,,,EUR,0.43,0.475337648,referral_card_cashback
+07/08/2021 18:33,Card Cashback,CRO,1.59798477,,,EUR,0.19,0.210032914,referral_card_cashback
+28/07/2021 16:13,Card Cashback,CRO,0.32801453,,,EUR,0.03,0.033163092,referral_card_cashback
+28/07/2021 15:56,Card Cashback,CRO,0.41393807,,,EUR,0.04,0.044217456,referral_card_cashback
+28/07/2021 07:21,Card Cashback,CRO,0.80646092,,,EUR,0.08,0.088434911,referral_card_cashback
+27/07/2021 09:47,Supercharger Deposit (via app),CRO,-286.3,,,EUR,28.13,31.09592565,supercharger_deposit
+26/07/2021 17:18,Card Cashback,CRO,5.00673547,,,EUR,0.52,0.574826923,referral_card_cashback
+25/07/2021 19:00,Card Cashback,CRO,14.1080099,,,EUR,1.38,1.525502218,referral_card_cashback
+24/07/2021 16:25,Card Cashback,CRO,178.8542179,,,EUR,17.48,19.3230281,referral_card_cashback
+29/06/2021 19:09,Card Cashback,CRO,0.92993911,,,EUR,0.09,0.099489275,referral_card_cashback
+29/06/2021 08:19,Card Cashback,CRO,0.35978208,,,EUR,0.03,0.033163092,referral_card_cashback
+28/06/2021 14:22,Supercharger Deposit (via app),CRO,-521,,,EUR,46.1,50.96061758,supercharger_deposit
+28/06/2021 06:28,Card Cashback,CRO,0.37814738,,,EUR,0.03,0.033163092,referral_card_cashback
+27/06/2021 18:44,Card Cashback,CRO,0.6931196,,,EUR,0.06,0.066326183,referral_card_cashback
+29/05/2021 15:27,Card Cashback,CRO,1.70850132,,,EUR,0.16,0.176869822,referral_card_cashback
+28/05/2021 07:55,Card Cashback,CRO,10.34328575,,,EUR,1.03,1.138599482,referral_card_cashback
+05/04/2021 21:17,Sign-up Bonus Unlocked,CRO,114.8945947,,,USD,25,25,referral_gift
+05/04/2021 21:16,CRO Stake,CRO,-1879,,,EUR,350.21,387.1348781,lockup_lock
+05/04/2021 21:15,EUR -> CRO,EUR,-45.16,CRO,242.19,EUR,45.16,49.92150737,viban_purchase
+05/04/2021 18:42,EUR -> CRO,EUR,-349.84,CRO,1865.71,EUR,349.84,386.7258667,viban_purchase
